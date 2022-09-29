@@ -26,5 +26,3 @@ As you can see from the table, It'll cost riders $3.5 to unlock the classic bike
 As our main objective is to ensure an appropriate quantity of bikes during rushed-hours and enough capacity of docks to place bikes, we propose two solutions by applying the citi bike analyzer. First, to add more docks at designated stations so that the increased bike capacity will alleviate the problem of bike imbalance. Second, to establish a dynamic bike transport system to help balance the demand in different areas.
  
 Overall, for this project, we used analytical insights to explore usage patterns and customer behavior so our team can better adjust the system for the future. Investments on conducting this analysis will be ultimately paid back by more long-run benefits and will help to achieve sustainability and business development.
-
-![image](https://user-images.githubusercontent.com/98541044/192917849-94420a14-b6bc-4c52-a38f-68395236e918.png)
